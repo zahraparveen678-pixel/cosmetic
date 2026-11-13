@@ -1,0 +1,6 @@
+{
+  "name": "Vespera Beauty",
+  "description": "Luxury cosmetics, skincare, lipsticks, and fragrance e-commerce store powered by Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
